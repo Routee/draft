@@ -1,25 +1,15 @@
 
 # draft
 ### The first video is about [graphql apis](./videos/graphQLapis.mov)
-<video controls>
-    <source src="./videos/graphQLapis.mov" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Video](https://img.youtube.com/vi/eF7A6lRTguI/0.jpg)](https://www.youtube.com/watch?v=eF7A6lRTguI)
+
 
 ### The second video shows the [simple query/search](./videos/simplequery.mov)
-<video controls>
-    <source src="./videos/simplequery.mov" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Video](https://img.youtube.com/vi/xl4dv53wxTo/0.jpg)](https://www.youtube.com/watch?v=xl4dv53wxTo)
 
 ### The third video is about [live search](./videos/liveSearch.mov)
-<video controls>
-    <source src="./videos/liveSearch.mov" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Video](https://img.youtube.com/vi/8sseWtSce1A/0.jpg)](https://www.youtube.com/watch?v=8sseWtSce1A)
+
 
 ### The last is the [simple demo](./videos/demo.mov)
-<video controls>
-    <source src="./videos/demo.mov" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Video](https://img.youtube.com/vi/m6xmYVFVjh4/0.jpg)](https://www.youtube.com/watch?v=m6xmYVFVjh4)
